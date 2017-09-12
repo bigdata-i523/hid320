@@ -2,7 +2,8 @@
 
 * 08/21/17 Read the entire class overview section
 * 08/28/17 Registered to piazza, github,future systems, chameleon cloud  
-
+* 09/04/17 Attended and recorded zoom meeting
+* 09/09/17 Attended zoom meeting
 
 # Theory
 
