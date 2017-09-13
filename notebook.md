@@ -18,3 +18,6 @@
 
 * 08/26/17 Installed and Learned aquamacs
 * 09/01/17 Installed and Learned jabref
+* 09/05/17 Proposed Topic for Paper 1
+* 09/12/17 Proposed Topic for Paper 2
+
