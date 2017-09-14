@@ -21,6 +21,7 @@
 
 * 08/26/17 Installed and Learned aquamacs
 * 09/01/17 Installed and Learned jabref
+* 09/13/17 Watched ShareLatex and how to write research paper videos 
 
 # Assignments 
 
