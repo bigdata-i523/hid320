@@ -6,6 +6,7 @@
 * 09/07/17 Subscribed to Big Data on github
 * 09/09/17 Attended zoom meeting
 * 09/13/17 Registed for ShareLaTex
+* 09/14/17 Watched video for online office hours September 11, 6-8 p.m
 
 
 # Theory
