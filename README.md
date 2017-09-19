@@ -1,8 +1,3 @@
-# Comments
-
-* Mind the ```quotes and do not forget them```. Please do not delete the quotes, and keep the #
-* Remove all sections that you have not yet worked on. 
-
 # Owner
 
 ```
