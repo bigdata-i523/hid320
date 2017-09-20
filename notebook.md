@@ -26,12 +26,14 @@
 
 * 08/26/17 Installed and Learned aquamacs
 * 09/01/17 Installed and Learned jabref
+* 09/20/17 Created folders for paper1 and paper2
 
 # Assignments 
 
 * 09/05/17 Proposed Topic for Paper 1
 * 09/12/17 Proposed Topic for Paper 2
 * 09/13/17 Started to write paper 1 in ShareLatex
+* 09/20/17 Continuing on Paper 1
 
 
 
