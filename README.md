@@ -15,8 +15,11 @@ paper1:
    - Elena Kirzhner
    hid:
    - 320
-   title: This is my paper about Big Data Analytics and Applications in Childbirth
-   abstract: Seeking to find  impact of big data analytics in maternal death during childbirth. Looking for patterns to predict who's susceptible to fatality.
+   title: Big Data Analytics and Applications in Childbirth
+   abstract: >
+     Seeking to find impact of big data analytics in maternal death
+     during childbirth. Looking for patterns to predict who's
+     susceptible to fatality.
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    status: in progress
@@ -31,8 +34,10 @@ paper2:
    hid:
    - 320
    title: This is my paper about Big Data Analytics and Applications in Sustainable Fish Breeding
-   abstract: Fish farming is a growing industry due to increase in human population and overfishing. 
-Researching possibilities for big data, tracking devices,sensors, farming and healthy fish breeding.
+   abstract: >
+     Fish farming is a growing industry due to increase in human
+     population and overfishing.  Researching possibilities for big data,
+     tracking devices,sensors, farming and healthy fish breeding.
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
    type: word
    status: in progress
