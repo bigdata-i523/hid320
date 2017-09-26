@@ -7,6 +7,8 @@
 * 09/09/17 Attended zoom meeting
 * 09/13/17 Registed for ShareLaTex
 * 09/14/17 Watched video for online office hours September 11, 6-8 p.m
+* 09/25/17 Watched video for online office hours September 18, 6-8 p.m
+
 
 
 # Theory
@@ -34,6 +36,7 @@
 * 09/12/17 Proposed Topic for Paper 2
 * 09/13/17 Started to write paper 1 in ShareLatex
 * 09/20/17 Continuing on Paper 1
+
 
 
 
