@@ -37,6 +37,7 @@
 * 09/13/17 Started to write paper 1 in ShareLatex
 * 09/20/17 Continuing on Paper 1
 * 10/02/17 Continuing on Paper 1
+* 10/04/17 Continuing on Paper 1
 
 
 
