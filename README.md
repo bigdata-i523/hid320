@@ -20,7 +20,7 @@ paper1:
      Seeking to find impact of big data analytics in maternal death
      during childbirth. Looking for patterns to predict who's
      susceptible to fatality.
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/hid320/tree/master/paper1
    type: latex
    status: 100%
    chapter: Health
