@@ -1,0 +1,34 @@
+---
+owner:
+    hid: 320
+    name: Elena Kirzhner
+    url: https://github.com/bigdata-i523/hid320
+paper1:
+    abstract: 'Seeking to find impact of big data analytics in maternal death during
+        childbirth. Looking for patterns to predict who''s susceptible to fatality.
+
+        '
+    author:
+        - Elena Kirzhner
+    chapter: Health
+    hid:
+        - 320
+    status: 100%
+    title: Big Data Analytics and Applications in Childbirth
+    type: latex
+    url: https://github.com/bigdata-i523/hid320/tree/master/paper1
+paper2:
+    abstract: 'Fish farming is a growing industry due to increase in human population
+        and overfishing.  Researching possibilities for big data, tracking devices,sensors,
+        farming and healthy fish breeding.
+
+        '
+    author:
+        - Elena Kirzhner
+    hid:
+        - 320
+    status: in progress
+    title: This is my paper about Big Data Analytics and Applications in Sustainable
+        Fish Breeding
+    type: word
+    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
