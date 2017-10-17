@@ -23,6 +23,7 @@
 * 08/29/17 Contributed chg:dev: corrected spelling error github
 * 09/01/17 Bought Raspberry PI and NodeMCU for IoT
 * 09/01/17 Enabled Python 2 and 3 via pyenv on OSX
+* 10/16/17 Participated in Experiment: What is the following program doing?
 
 # Writing
 
@@ -38,6 +39,8 @@
 * 09/20/17 Continuing on Paper 1
 * 10/02/17 Continuing on Paper 1
 * 10/04/17 Continuing on Paper 1
+* 10/08/17 Paper 1 Complete
+* 10/16/17 Paper 1 Review
 
 
 
