@@ -30,6 +30,7 @@
 * 08/26/17 Installed and Learned aquamacs
 * 09/01/17 Installed and Learned jabref
 * 09/20/17 Created folders for paper1 and paper2
+* 10/30/17 Updated bibtex file for paper1 and submitted for final approval 
 
 # Assignments 
 
