@@ -17,16 +17,25 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid320/tree/master/paper1
 paper2:
-    abstract: >
-        Fish farming is a growing industry due to increase in human population
-        and overfishing.  Researching possibilities for big data, tracking devices,sensors,
-        farming and healthy fish breeding.
-    author:
-        - Elena Kirzhner
-    hid:
-        - 320
-    status: in progress
-    title: This is my paper about Big Data Analytics and Applications in Sustainable
-        Fish Breeding
-    type: word
-    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
+   author: 
+   - Elena Kirzhner
+   hid:
+   - 320
+   title: Overview of Python Data Visualization Tools
+   abstract: >
+      There are so many options to visualize data in python platform. Therefore, it can be really challenging to figure out which one to use appropriately. This paper will contain samples of the most popular ones and illustrates how to use them to create a simple visualization from the data in previous paper.
+   url: https://github.com/bigdata-i523/sample-hid000/paper2/
+   status: 50%
+   chapter: TBD
+project:
+   type: project
+   author: 
+   - Elena Kirzhner
+   hid:
+   - 320
+   title: Real Estate Big Data Analysis
+   abstract: >
+       Big data is great for real estate industry. Real estate is a massive industry, with over $235 billion per year in revenue. Analyzing real estate historical trends as it relates to housing bubble and predicting future outcome can become less of a complex process. Big Data analysis can also reveal the worth of neighboring properties which results in accurate estimates in shorter time spans. It offers some great insights on risk analysis and also helps to predict the worth of upcoming housing or building projects and helps determine realtors whether it is safe to invest or not.
+   url: https://github.com/bigdata-i523/sample-hid000/project/
+   type: project
+   status: Dec 04 17 0%
