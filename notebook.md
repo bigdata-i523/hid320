@@ -42,6 +42,7 @@
 * 10/04/17 Continuing on Paper 1
 * 10/08/17 Paper 1 Complete
 * 10/16/17 Paper 1 Review
+* 11/06/17 Paper 2 Submitted
 
 
 
