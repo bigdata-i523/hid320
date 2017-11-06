@@ -25,15 +25,16 @@ paper2:
         - 320
     title: Overview of Python Data Visualization Tools
     abstract: >
-        There are so many options to visualize data in python
+        There are so many options to visualize data in Python
         platform. Therefore, it can be really challenging to figure
         out which one to use appropriately. This paper will contain
         samples of the most popular ones and illustrates how to use
         them to create a simple visualization from the data in
         previous paper.
-    url: https://github.com/bigdata-i523/sample-hid000/paper2/
-    status: 50%
-    chapter: TBD
+    type: latex
+    url: https://github.com/bigdata-i523/hid320/tree/master/paper2
+    status: 100% Nov 6 2017
+    chapter: Big Data Visualization
 project:
     type: project
     author:
