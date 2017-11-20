@@ -31,6 +31,8 @@
 * 09/01/17 Installed and Learned jabref
 * 09/20/17 Created folders for paper1 and paper2
 * 10/30/17 Updated bibtex file for paper1 and submitted for final approval 
+* 11/17/17 Working on the final project
+
 
 # Assignments 
 
