@@ -46,6 +46,8 @@
 * 10/16/17 Paper 1 Review
 * 11/06/17 Paper 2 Submitted
 * 11/29/17 Continuing working on the final project
+* 12/03/17 Submitted final project
+
 
 
 
