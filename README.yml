@@ -34,7 +34,7 @@ paper2:
     type: latex
     url: https://github.com/bigdata-i523/hid320/tree/master/paper2
     status: 100% Nov 6 2017
-    chapter: Big Data Visualization
+    chapter: Technology
 project:
     type: project
     author:
